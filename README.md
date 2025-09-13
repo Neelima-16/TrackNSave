@@ -18,4 +18,3 @@ and work towards financial goals — all in one place.
 - **Frontend:** React.js (Vite)
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
-
